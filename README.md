@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/aprianilestariii/Ujikom-SPP//public/img/3.PNG" width="600"></p>
+<p align="center"><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/3.PNG" width="600"></p>
 
 <p align="center">
     <h1>Aplikasi Pembayaran SPP</h1>
