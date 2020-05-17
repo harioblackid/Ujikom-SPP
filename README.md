@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/3.PNG" width="600"></p>
+<p align="center"><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/3.PNG" width="600"></p>
 
 <p align="center">
     <h1>Aplikasi Pembayaran SPP</h1>
@@ -60,19 +60,19 @@ Level Siswa
 ## Gambar
 
 <p align="center">
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/2.PNG" width="300"></span>
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/3.PNG" width="300"></span>
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/4.PNG" width="300"></span>
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/5.PNG" width="300"></span>
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/6.PNG" width="300"></span>
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/7.PNG" width="300"></apan>
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/8.PNG" width="300"></span>
- <apan><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/9.PNG" width="300"></span>
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/10.PNG" width="300"></span>
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/11.PNG" width="300"></span>
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/12.PNG" width="300"></span>
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/13.PNG" width="300"></span>
- <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/public/img/14.PNG" width="300"></span>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/2.PNG" width="300"></span>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/3.PNG" width="300"></span>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/4.PNG" width="300"></span>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/5.PNG" width="300"></span>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/6.PNG" width="300"></span>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/7.PNG" width="300"></apan>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/8.PNG" width="300"></span>
+ <apan><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/9.PNG" width="300"></span>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/10.PNG" width="300"></span>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/11.PNG" width="300"></span>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/12.PNG" width="300"></span>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/13.PNG" width="300"></span>
+ <span><img src="https://github.com/aprianilestariii/Ujikom-SPP/blob/master/public/img/14.PNG" width="300"></span>
 </p>
 
 ## Penutup
